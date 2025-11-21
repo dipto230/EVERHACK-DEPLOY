@@ -1,0 +1,13 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bracket Left -->
+  <text x="5" y="45" font-family="'Courier New', monospace" font-size="40" font-weight="bold" fill="#00ffff">&lt;</text>
+  
+  <!-- Text -->
+  <text x="35" y="45" font-family="'Courier New', monospace" font-size="32" font-weight="bold" fill="#ffffff">EverHack</text>
+  
+  <!-- Bracket Right -->
+  <text x="175" y="45" font-family="'Courier New', monospace" font-size="40" font-weight="bold" fill="#00ffff">/&gt;</text>
+  
+  <!-- Underline -->
+  <line x1="35" y1="50" x2="170" y2="50" stroke="#00ffff" stroke-width="2" opacity="0.3"/>
+</svg>
